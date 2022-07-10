@@ -3,7 +3,7 @@
        false : untuk matiin
        true : untuk hidupin
 
-Paham ?
+Paham ? Gak
 
 ==========[ INFO 2 ]==========
 
