@@ -18,6 +18,6 @@ _BOT NYOLONG SC ORG/AUTO RES/WIBU AE BANGGA JANGAN SOK PRO DEK !_
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
 
-──「 *${botname}* 」──`
+──「 *LuccyBot* 」──`
 }
 exports.rules = rules
